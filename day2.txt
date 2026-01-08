@@ -1,0 +1,8 @@
+function func()
+{
+	let a = 10
+	var x = "String"
+	console.log(a+x)
+	var y = 10.9
+	console.log(y)
+}
